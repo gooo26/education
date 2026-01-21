@@ -1,0 +1,35 @@
+Motion Design Course Landing Page Template
+
+A premium landing page template for a motion design education program, perfect for promoting structured courses, coaching, and program-based offerings.
+
+Editucation Motion Design Landing Page Template
+
+A high-converting, dark-theme landing page template built to sell motion design or creative education programs.
+
+What's included
+Hero section with bold value proposition and primary CTA
+Problem / solution storytelling to build urgency and trust
+Program structure roadmap with stages and outcomes
+Deliverables & benefits grid showcasing everything students receive
+Pricing tiers for subscription and lifetime offers
+Who it’s for / not for qualification section
+Key features
+Clean, premium dark UI with accent color for CTAs
+Scroll-based reveal animations and subtle hover states
+Sections optimized for course, cohort, or mentorship offers
+Clear calls-to-action like “Join Program” and “Start Editucation”
+Mobile-responsive Tailwind CSS layout
+Primary use case
+Use this template to launch or relaunch a motion design course, mentorship program, or creative education offer with a narrative-driven, conversion-focused landing page.
+
+Tags:
+
+Landing Page
+Education
+Services
+Brand
+Dark
+Clean
+Minimal
+Large Type
+Technology
