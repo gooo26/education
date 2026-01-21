@@ -1,0 +1,15 @@
+Digital Finance Education UI
+
+
+
+Landing page UI with navigation, background image, and animated header for a digital finance learning platform.
+
+
+Tags:
+
+Landing Page
+Navigation
+Animation
+Tailwind CSS
+Fonts
+Background Image
