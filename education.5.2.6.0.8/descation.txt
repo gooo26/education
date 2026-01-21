@@ -1,0 +1,37 @@
+Vertex Online Learning
+
+
+A dark, futuristic Vertex online learning landing page template for AI, design, and engineering education platforms looking to convert visitors into learners.
+
+Vertex Online Learning Landing Page Template
+
+A dark, futuristic landing page template for high-performance online education platforms focused on AI, design, and engineering.
+
+What’s Included
+Hero with bold headline, social proof badge, and dual CTAs
+Platform feature section with timeline, imagery, and secondary CTA
+Integrations showcase with animated network graphic
+Courses grid for featured programs and durations
+Community + marquee gallery, testimonial, and conversion-focused footer
+Key Features
+Conversion-focused hero with “Start Learning” and “Browse Catalog” CTAs
+Course catalog grid optimized for categories, lessons, and timings
+Community-centric sections to highlight peers and social proof
+Modern dark UI with gradients, motion, and glowing accents
+Responsive Tailwind-based layout ready for customization
+Primary Use Case
+Ideal for teams launching an online learning, cohort-based course, or AI/tech education brand who need a high-impact landing page template that drives enrollments and community signups.
+
+
+Tags:
+
+Landing Page
+Education
+Technology
+Brand
+Clean
+Dark
+Futuristic
+Gradient
+Large Type
+Animated
