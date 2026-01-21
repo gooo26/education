@@ -1,0 +1,31 @@
+Study Abroad Education Landing Page Template
+
+A modern template for education agencies or platforms to showcase European university application services, student guidance, and study abroad workflows.
+
+Education Bridge is a polished landing page template for showcasing study-abroad and university admissions services focused on Europe.
+
+What’s Included
+Hero section with bold headline, social proof, and dual CTAs
+Animated visual cards for admissions, visa, and document status
+Value proposition grid, stats, and real-time tracking feature split
+Team/mentor profiles with interactive modal and chat/call CTAs
+Conversion-focused CTA section and structured footer
+Key Features
+Modern, clean Tailwind CSS layout with gradients and large type
+Program search, unified application, and mentorship storytelling baked into the copy
+Stats and trust indicators to boost credibility
+Responsive, mobile-friendly structure ready for customization
+Clear primary CTAs (“Get Started”, “Apply Now”) to drive signups
+Ideal for education platforms, agencies, or consultants helping students apply to European universities, this template speeds up launch while leaving room for brand customization.
+
+
+Tags:
+
+Education
+Landing Page
+Services
+Clean
+Gradient
+Large Type
+Technology
+Brand
