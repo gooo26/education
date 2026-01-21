@@ -1,0 +1,27 @@
+VergabeCampus Inhouse Seminar Landing Page Template
+
+
+Modern Landing Page Template for promoting inhouse public procurement (Vergaberecht) seminars, workshops, and training offers to public institutions.
+
+VergabeCampus Inhouse Seminar Landing Page Template präsentiert ein klar strukturiertes One-Pager-Design für Anbieter von Schulungen im öffentlichen Vergaberecht.
+
+Highlights
+Hero-Sektion mit klarem Value Prop, Social Proof und Doppel-CTA (Beratungstermin, Video ansehen)
+Vorteils-Bento-Grid für Rechtssicherheit, Workshops, Vorlagen & Checklisten, Zertifizierung
+Modulübersicht für Seminarinhalte mit Agenda-/Timeline-Darstellung
+Testimonials-Scroller im Stripe-Stil für Vertrauen und Referenzen
+Preistabellen mit drei Paketen (Kompakt, Praxis Intensiv, Campus Plus)
+Footer-CTA & Kontaktbereich inkl. Telefon, Social Links und Rechtsseiten
+Haupt-Use-Case: Anbieter von Inhouse-Seminaren und Fortbildungen für öffentliche Auftraggeber, die ein modernes, vertrauenswürdiges Template zur Lead-Generierung und Angebotspräsentation suchen.
+
+
+Tags:
+
+Landing Page
+Services
+Business
+Education
+Clean
+Minimal
+Gradient
+Large Type
