@@ -1,0 +1,32 @@
+Student Study App Landing Page Template
+
+A modern landing page template for a student study and mental-load management app, perfect for showcasing features and driving downloads of your education tool.
+
+Allège est une landing page template élégante pour une application d’étude qui réduit la charge mentale et met en avant un message bien-être.
+
+Inclus dans le template
+Hero section avec accroche forte, badges régionaux et doubles CTA (téléchargement + démo)
+Sections “Problème” et “Solution” avec cartes de fonctionnalités détaillées
+Parcours en 3 étapes, ciblage par profils d’apprenants et bloc valeurs de marque
+CTA final orienté conversion avec essai gratuit
+Footer complet avec navigation produit, compagnie et mentions légales
+Principales fonctionnalités
+Design clean, doux et rassurant (palette sage, gradients subtils)
+Copy centrée sur la santé mentale et la réussite scolaire
+Composants Tailwind prêts à adapter pour toute app d’éducation ou de productivité
+Animations de scroll discrètes pour un storytelling fluide
+Structure optimisée pour le SEO et les conversions
+Use case principal : idéal pour lancer ou rebrander une application d’étude, d’organisation ou de bien-être étudiant tout en posant une identité de marque chaleureuse et crédible.
+
+
+Tags:
+
+Landing Page
+Education
+Technology
+Health
+Brand
+Clean
+Gradient
+Minimal
+Large Type
