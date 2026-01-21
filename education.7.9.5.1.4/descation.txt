@@ -1,0 +1,17 @@
+EXO9 Observatory Landing Page Template
+
+
+A reusable landing page template for science museums and observatories to showcase exhibits, live streams, events, and educational programs.
+
+Tags:
+
+Landing Page
+Hero
+Features
+Events
+Live Streams
+Exhibits
+Educational
+Science
+Observatory
+Newsletter
